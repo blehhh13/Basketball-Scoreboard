@@ -33,3 +33,5 @@ function plusThreeGuest() {
   basketsGuest += 3;
   scoreGuest.textContent = basketsGuest;
 }
+
+// :)
